@@ -1,0 +1,1 @@
+This repository contains projects that I have developed and will continue to develop during my college years. I am currently in my 3rd year, and this repository showcases my learning and growth in the field of computer science and data science.
